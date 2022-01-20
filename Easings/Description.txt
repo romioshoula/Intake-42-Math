@@ -1,0 +1,1 @@
+Create a circle moving that follows the mouse using 3 different easings (linear excluded).
